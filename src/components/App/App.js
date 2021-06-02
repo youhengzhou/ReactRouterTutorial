@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="wrapper">
       <h1>Marine Mammals</h1>
-      <Manatee />
+      <Manatee/>
     </div>
   );
 }
